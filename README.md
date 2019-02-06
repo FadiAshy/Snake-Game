@@ -11,3 +11,5 @@ Eat Food and Grow larger but the game end when you touch your body.
 Controls: 
 The Arrow Keys to move.
 'R' to reset the game after the game over.
+
+check the game on my youtube channel : https://youtu.be/Q549b3qvt_A
